@@ -17,14 +17,15 @@
     font-size: 18px;
     text-transform: capitalize;
     padding-top: 10px;
-    transition:calc(0.7s);
+    transition:calc(0.9s);
     cursor: pointer;
 }
 
 .cats:hover{
     font-size: 22px;
     text-decoration: underline; 
-    transform: scale(0.9);
+    transform: scale(0.7);
+  
     
    
 }
