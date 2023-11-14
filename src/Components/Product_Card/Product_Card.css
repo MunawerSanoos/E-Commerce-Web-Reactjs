@@ -1,0 +1,37 @@
+.prod-card-wrap{
+    border: 2px solid white;
+    background: white;
+    color: black;
+    font-weight:bold;
+    height: 280px;
+    width: 160px;
+    padding: 12px 15px;
+    margin: 18px;
+    transition: transform .7s;
+    cursor: pointer;  
+    border-radius: 21px 0;  
+}
+
+.prod-card-wrap:hover{
+    box-shadow: 4px 9px 6px 3px rgba(235, 235, 235, 0.39);
+    -webkit-box-shadow: 4px 9px 6px 3px rgba(245, 241, 241, 0.39);
+    -moz-box-shadow: 4px 9px 6px 3px rgba(245, 241, 241, 0.39);
+    transform: scale(1.3);
+    
+}   
+
+
+.prod-card-img{
+height: 140px;
+width: 120px;
+padding-left: 18px; 
+
+
+
+}
+    
+.prod-details{
+    margin-top: 20px;
+    padding-top: 5px;
+
+}

@@ -1,0 +1,19 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+
+   
+}
+
+.logo{
+    width: 200px;
+    text-decoration: line-through;
+    font-weight: bolder;
+    font-style: italic;
+    padding-top: 10px;
+    font-family: cursive;}
+

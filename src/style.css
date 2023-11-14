@@ -1,0 +1,32 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(45deg, black, transparent);
+  
+
+    
+}
+
+button{
+    margin: 0px 15px;
+    padding: 10px 15px;
+    font-weight: bolder;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: calc(0.7s);
+    
+
+}           
+
+button:hover{ 
+  background: black;
+  color: white;
+  transform: calc(0.9);
+
+}    
+
+.main-wrapper{
+  display: flex;
+  width: 96%;
+  margin: 10px auto;
+}

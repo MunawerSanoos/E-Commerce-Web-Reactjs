@@ -1,0 +1,13 @@
+.banner-wrapper{
+    width: 96%;
+    height: 200px;
+    margin: 15px 2%;
+    border-radius: 0px 30px;
+    object-fit: fill;
+    transition: transform .5s;
+}
+
+.banner-wrapper:hover{
+    transform: scale(0.9);
+   
+}
